@@ -20,7 +20,8 @@ buka terminal ikutin cara dibawah
  3   local startup		
         sleep 60 && service /etc/init.d/tailscale restart
 
-
+ip 100.77.62.6
 
 
 My FB : https://www.facebook.com/xroot.xroot.7
+
